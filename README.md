@@ -5,7 +5,8 @@ This is a batch file that stops AB Tutor.
 You must be able to run files as administrator for this to work. I take no responsablity for **_ANY_** consequences for using this code even if the consequence is legal action.
 
 # _| INSTRUCTIONS |_
-1. Download source code (.zip)
+1. Download source code (.zip) ![bandicam 2021-10-27 08-59-12-040](https://user-images.githubusercontent.com/83634185/138972998-d101e6c9-0aae-4269-9a23-90d61bd45426.jpg)
+
 2. Extract the files
 3. Navigate to the folder it is saved in.
 4. Right click the file "stop.bat", then click "Run as Administrator"
