@@ -10,10 +10,8 @@ You must be able to run files as administrator for this to work. I take no respo
 3. Navigate to the folder it is saved in.
 4. Right click the file "stop.bat", then click "Run as Administrator"
 5. If prompted, select yes
-6. Wait for the "SUCCESS" message to appear twice in the command prompt window that opened.
-7. Close the Command Prompt Window
-8. Press Ctrl+Shift+Esc to open task manager
-9. Click "More Details"
-10. Select "AB Tutor Maintainer" and click "End Task" in the bottom right.
-11. Close Task Manager
-12. AB Tutor is killed until you restart your computer
+6. Press Ctrl+Shift+Esc to open task manager
+7. Click "More Details"
+8. Select "AB Tutor Maintainer" and click "End Task" in the bottom right.
+9. Close Task Manager
+10. AB Tutor is killed until you restart your computer
