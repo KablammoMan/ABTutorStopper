@@ -1,17 +1,18 @@
 # ABTutorStopper
-This is a batch file that stops AB Tutor.
+This is how to stop AB Tutor.
 
 # _| IMPORTANT |_
 You must be able to run files as administrator for this to work. I take no responsablity for **_ANY_** consequences for using this code even if the consequence is legal action.
 
 # _| INSTRUCTIONS |_
-1. Download source code (.zip)
-2. Extract the files
-3. Navigate to the folder it is saved in.
-4. Right click the file "stop.bat", then click "Run as Administrator"
-5. If prompted, select yes
-6. Press Ctrl+Shift+Esc to open task manager
-7. Click "More Details"
-8. Select "AB Tutor Maintainer" and click "End Task" in the bottom right.
-9. Close Task Manager
-10. AB Tutor is killed until you restart your computer
+
+**METHOD 1**
+1. Open Control Panel
+2. Select "Uninstall a Program"
+3. Select "AB Tutor" OR "AB Tutor Maintainer"
+4. Click the "Uninstall" button
+5. AB Tutor is now uninstalled
+
+**METHOD 2**
+1. Disconnect from any Wi-Fi
+2. AB Tutor can no longer contact the servers, stopping details being sent to teacher/supervisor.
