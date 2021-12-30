@@ -16,5 +16,5 @@ You must be able to run files as administrator for this to work (_I think_). I t
 7. AB Tutor is now uninstalled
 
 **METHOD 2 - SERVER DISCONNECTION**
-1. Disconnect from any Wi-Fi
-2. AB Tutor can no longer contact the servers, stopping details being sent to teacher/supervisor.
+1. Disconnect from any Wi-Fi networks you are connected to. This includes hotspots.
+2. AB Tutor can no longer contact their servers due to lack of internet, stopping details being sent to teacher/supervisor.
