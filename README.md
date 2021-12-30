@@ -2,7 +2,7 @@
 This is how to stop AB Tutor.
 
 # _| IMPORTANT |_
-You must be able to run files as administrator for this to work. I take no responsablity for **_ANY_** consequences for using this code even if the consequence is legal action.
+You must be able to run files as administrator for this to work (_I think_). I take no responsablity for **_ANY_** consequences for using this code even if the consequence is legal action.
 
 # _| INSTRUCTIONS |_
 
