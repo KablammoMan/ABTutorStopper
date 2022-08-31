@@ -16,7 +16,15 @@ This is how to stop AB Tutor.
 1. Disconnect from any Wi-Fi networks you are connected to. This includes hotspots.
 2. AB Tutor can no longer contact their servers due to lack of internet, stopping details being sent to teacher/supervisor.
 
-**METHOD 3 - SUSSY FILE DOWNLOADS**
-1. Download `stop.bat` and `start.bat`
-2. Run `stop.bat` as administrator to stop AB Tutor
-3. Run `start.bat` as administrator to start AB Tutor
+**METHOD 3 - THE ALMIGHTY FIREWALL**
+1. Open 'Windows Defender Firewall with Advanced Security'
+2. Click 'Outbound Rules' on the left
+3. Click 'New Rule' on the Right
+4. Select 'Port' in the box that opens up and then click 'Next'
+5. Make sure that 'TCP' and 'Specific Remote Ports' are selected
+6. Type 5151 into the box and click 'Next'
+7. Make sure that 'Block the connection' and click 'Next'
+8. Make sure that all checkboxes are checked ('Domain', 'Private' and 'Public')
+9. Call it something you will remember (e.g. 'ABStop') and click finish
+10. Changes will take effect immediately
+11. If you want to enable AB Tutor, right click the rule and click 'Disable Rule'
