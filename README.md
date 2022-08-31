@@ -16,7 +16,7 @@ This is how to stop AB Tutor.
 1. Disconnect from any Wi-Fi networks you are connected to. This includes hotspots.
 2. AB Tutor can no longer contact their servers due to lack of internet, stopping details being sent to teacher/supervisor.
 
-**METHOD 3 - SUSSY FILE DOWNLOAD**
-1. Download `a.bat` and run it as administrator
-2. Open "Task Manager", navigate to services tab, right click "ABMaintainer" and click stop
-3. The AB Tutor processes are now killed and will not start again until you restart your computer
+**METHOD 3 - SUSSY FILE DOWNLOADS**
+1. Download `stop.bat` and `start.bat`
+2. Run `stop.bat` as administrator to stop AB Tutor
+3. Run `start.bat` as administrator to start AB Tutor
