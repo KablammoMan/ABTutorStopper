@@ -32,3 +32,8 @@ This is how to stop AB Tutor.
 **METHOD 4 - SOFTWARE**
 1. Download `start.bat` and `stop.bat`
 2. Use each one for its official use
+
+** End User License Agreement **
+1. This software and instructions are provided as is and are licensed under MIT meaning I (KablammoMan) am not responsible for any legal trouble that you get in
+2. Schools can not get me in trouble (infringements, detentions, suspensions, expulsions, etc...) for someone else using these instructions and programs to stop ABTutor
+3. By using these instructions and software, you automatically agree to the EULA
