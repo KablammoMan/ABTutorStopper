@@ -28,3 +28,7 @@ This is how to stop AB Tutor.
 9. Call it something you will remember (e.g. 'ABStop') and click finish
 10. Changes will take effect immediately
 11. If you want to enable AB Tutor, right click the rule and click 'Disable Rule'
+
+**METHOD 4 - SOFTWARE**
+1. Download `start.bat` and `stop.bat`
+2. Use each one for its official use
