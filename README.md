@@ -36,3 +36,4 @@
 **METHOD 4 - SOFTWARE**
 1. Download `start.bat` and `stop.bat`
 2. Use each one for its official use
+3. You must run these as administrator for them to work
