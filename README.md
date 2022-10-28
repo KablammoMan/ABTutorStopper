@@ -1,7 +1,4 @@
-# ABTutorStopper
-This is how to stop AB Tutor.
-
-# _| INSTRUCTIONS |_
+# _ABTutorStopper_
 
 **METHOD 1 - UNINSTALLATION**
 1. Open Control Panel
