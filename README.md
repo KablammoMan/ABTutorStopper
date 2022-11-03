@@ -7,7 +7,7 @@
 3. By using these instructions and software, you automatically agree to the EULA
 
 
-**METHOD 1 - UNINSTALLATION - Best Reliable Solution**
+**METHOD 1 - UNINSTALLATION - Most Reliable Solution**
 1. Open Control Panel
 2. Select "Uninstall a Program"
 3. Select "AB Tutor" OR "AB Tutor Maintainer". If both of these show up, do steps 4-6 for both.
