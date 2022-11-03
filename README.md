@@ -3,7 +3,7 @@
 
 # End User License Agreement
 1. This software and instructions are provided as is and are licensed under MIT meaning I (KablammoMan) am not responsible for any legal trouble that you get in
-2. Schools can not get me in trouble (infringements, detentions, suspensions, expulsions, etc...) for someone else using these instructions and programs to stop ABTutor
+2. Nobody can not get me (KablammoMan) in trouble (infringements, detentions, suspensions, expulsions, etc...) for someone else using these instructions and programs to stop ABTutor
 3. By using these instructions and software, you automatically agree to the EULA
 
 
