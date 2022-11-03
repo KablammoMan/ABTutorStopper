@@ -20,7 +20,7 @@
 1. Disconnect from any Wi-Fi networks you are connected to. This includes hotspots.
 2. AB Tutor can no longer contact their servers due to lack of internet, stopping details being sent to teacher/supervisor.
 
-**METHOD 3 - THE ALMIGHTY FIREWALL - Most Reliable without Uninstallation**
+**METHOD 3 - THE FIREWALL - Most Reliable without Uninstallation**
 1. Open 'Windows Defender Firewall with Advanced Security'
 2. Click 'Outbound Rules' on the left
 3. Click 'New Rule' on the Right
