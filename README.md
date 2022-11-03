@@ -33,7 +33,7 @@
 10. Changes will take effect immediately
 11. If you want to enable AB Tutor, right click the rule and click 'Disable Rule'
 
-**METHOD 4 - SOFTWARE - Best for Transporting Other Computers**
+**METHOD 4 - SOFTWARE - Best for Transporting to Other Computers**
 1. Download `start.bat` and `stop.bat`
 2. Use each one for its official use
 3. You must run these as administrator for them to work
