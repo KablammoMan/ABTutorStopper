@@ -6,8 +6,8 @@
 2. Nobody can not get me (KablammoMan) in trouble (infringements, detentions, suspensions, expulsions, etc...) for someone else using these instructions and programs to stop ABTutor
 3. By using these instructions and software, you automatically agree to the EULA
 
-
-**METHOD 1 - UNINSTALLATION - Most Reliable Solution**
+# Methods (* Indicates Administrator Privileges are Required)
+**METHOD 1 - UNINSTALLATION - Most Reliable Solution***
 1. Open Control Panel
 2. Select "Uninstall a Program"
 3. Select "AB Tutor" OR "AB Tutor Maintainer". If both of these show up, do steps 4-6 for both.
@@ -20,7 +20,7 @@
 1. Disconnect from any Wi-Fi networks you are connected to. This includes hotspots.
 2. AB Tutor can no longer contact their servers due to lack of internet, stopping details being sent to teacher/supervisor.
 
-**METHOD 3 - THE FIREWALL - Most Reliable without Uninstallation**
+**METHOD 3 - THE FIREWALL - Most Reliable without Uninstallation***
 1. Open 'Windows Defender Firewall with Advanced Security'
 2. Click 'Outbound Rules' on the left
 3. Click 'New Rule' on the Right
@@ -33,7 +33,7 @@
 10. Changes will take effect immediately
 11. If you want to enable AB Tutor, right click the rule and click 'Disable Rule'
 
-**METHOD 4 - SOFTWARE - Best for Transporting to Other Computers**
+**METHOD 4 - SOFTWARE - Best for Transporting to Other Computers***
 1. Download `start.bat` and `stop.bat`
 2. Use each one for its official use
 3. You must run these as administrator for them to work
