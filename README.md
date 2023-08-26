@@ -41,7 +41,7 @@
 2. Use each one for its official use
 3. You must run these as an administrator for them to work
 
-**METHOD 5 - USB WINDOWS INSTALL - 10/10 Complexity - For those without Admin that can afford to spend a bit of $(C)**
+**METHOD 5 - USB WINDOWS INSTALL - 10/10 Complexity - For those without Admin that can afford to spend a bit of money (C)**
 1. Purchase a 64-128GB USB Drive (I recommend these: [64GB Drive](https://www.amazon.com.au/dp/B077VYCV37/) | [128GB Drive](https://www.amazon.com.au/dp/B07855LJ99/))
 2. Download Portable Rufus (`rufus-<version>p.exe` NOT `rufus-<version>.exe`) from https://rufus.ie/en/ onto an External Computer
 3. Download the Windows ISO also on the external computer ([Windows 10](https://www.microsoft.com/en/software-download/windows10) | [Windows 11](https://www.microsoft.com/en/software-download/windows11)). This requires you to change your user agent on the browser to not be windows in order to trick the Microsoft Website into just giving you the option to download the iso, rather than downloading the windows media creator thingy. This can be done by installing a browser extension (I recommend 'User-Agent Switcher and Manager' ([Chrome Webstore](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) | [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/))
