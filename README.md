@@ -7,7 +7,7 @@
 4. By using these instructions and software, you automatically agree to the EULA
 
 # NOTES:
-- All the below methods have only been tested on Windows machines, if your institution uses MacOS, then firstly, your institution is (respectfully coming from a Windows and Linux Lover/Nerd) **RETARDED**, and secondly, only some of the below methods will work.
+- All the below methods have only been tested on Windows machines, if your institution uses MacOS, then firstly, your institution is (respectfully coming from a Windows and Linux Lover/Nerd) **RETARDED**, and secondly, only some of the below methods may work (idk which ones tho).
 - A = Requires Administrator Privileges, F = Free, C = Requires External Computer
 
 # Methods
