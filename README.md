@@ -53,4 +53,5 @@ If it says something else (I've personally never seen something else before), us
 If this screenshot was from the computer that had AB Tutor installed, I would choose 'GPT' and 'UEFI (non CSM)'
 8. Choose the volume label if you want, and make sure the 'File system' says 'NTFS' and the 'Cluster size' option ends with '(Default)'
 9. Click 'START' at the bottom of the rufus prompt
-10. Select the version of Windows 10 (or Windows 11) on the box that opens up. 
+10. Select the version of Windows 10 (or Windows 11) on the box that opens up.
+11. ***!!SUPER DUPER CRAZY IMPORTANT!!*** Deselect 'Prevent Windows To Go from accessing internal disks'. This allows the usb to access our drive on the AB Tutor computer (and any other commputer) to enable us to stop it from working.
