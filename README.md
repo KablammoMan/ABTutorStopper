@@ -6,7 +6,7 @@
 3. By using these instructions and software, you automatically agree to the EULA
 
 # NOTES:
-- All the below methods have only been tested on Windows machines, if you institution uses Apple Computers and Products, then firstly, your institution is (respectfully coming from a Windows and Linux Lover/Nerd) RETARDED, and secondly, only some of the below methods will work.
+- All the below methods have only been tested on Windows machines, if you institution uses MacOS, then firstly, your institution is (respectfully coming from a Windows and Linux Lover/Nerd) **RETARDED**, and secondly, only some of the below methods will work.
 
 # Methods (A = Requires Administrator Privileges, F = Free, C = Requires External Computer)
 **METHOD 1 - UNINSTALLATION - 4.5/10 Complexity - Most Reliable Solution (AF)**
