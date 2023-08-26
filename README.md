@@ -44,8 +44,8 @@
 4. Plug in the USB you bought and open `rufus-<version>p.exe`
 5. Select the USB Drive in the 'Device' prompt and select the Windows ISO you downloaded in the 'Boot selection' prompt
 6. **IMPORTANT:** Make sure to select 'Windows To Go' under the image option prompt
-7. Next, 'Partition scheme' and 'Target system'. Go onto the computer that you want to disable AB Tutor on and open 'System Information'. Look for 'BIOS Mode' in the 'System Summary' tab. If it says UEFI, choose the 'GPT' and 'UEFI (non CSM)' for your partition scheme and target system. If it says something else (I've personally never seen something else before), use 'MBR' and 'BIOS or UEFI' for your partition scheme and target system
-![How to find BIOS Mode](./img/bios.png "How to find BIOS Mode")
+7. Next, 'Partition scheme' and 'Target system'. Go onto the computer that you want to disable AB Tutor on and open 'System Information'. Look for 'BIOS Mode' in the 'System Summary' tab. ![How to find BIOS Mode](./img/bios.png "How to find BIOS Mode")
+If it says UEFI, choose the 'GPT' and 'UEFI (non CSM)' for your partition scheme and target system. If it says something else (I've personally never seen something else before), use 'MBR' and 'BIOS or UEFI' for your partition scheme and target system
 8. Choose the volume label if you want, and make sure the 'File system' says 'NTFS' and the 'Cluster size' option ends with '(Default)'
 9. Click 'START' at the bottom of the rufus prompt
 10. Select the version of Windows 10 (or Windows 11) on the box that opens up. 
