@@ -7,8 +7,9 @@
 
 # NOTES:
 - All the below methods have only been tested on Windows machines, if you institution uses MacOS, then firstly, your institution is (respectfully coming from a Windows and Linux Lover/Nerd) **RETARDED**, and secondly, only some of the below methods will work.
+- A = Requires Administrator Privileges, F = Free, C = Requires External Computer
 
-# Methods (A = Requires Administrator Privileges, F = Free, C = Requires External Computer)
+# Methods
 **METHOD 1 - UNINSTALLATION - 4.5/10 Complexity - Most Reliable Solution (AF)**
 1. Open Control Panel
 2. Select "Uninstall a Program"
