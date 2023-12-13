@@ -1,10 +1,11 @@
 # _ABTutorStopper_
 
 # End User License Agreement
-1. This software and instructions are provided as is and are licensed under MIT meaning I (KablammoMan) am not responsible for any trouble that you get in
-2. You can use these methods at your own risk, I make no guarantee that you won't get notices of withdrawment (and other punishments) from your institution
-3. Nobody can get me (KablammoMan) in trouble (legal or institution based) for ***someone else*** using these instructions and programs to stop ABTutor (i.e. if I use it, I take responsibility for my actions and will take the punishments)
-4. By using these instructions and software, you automatically agree to the EULA
+1. This software and instructions are provided as is and are licensed under MIT meaning I (KablammoMan) am not responsible for any trouble that you get in.
+2. This repository was generated for educational purposes only, as mentioned above, I am not responsible for any trouble that users may find themselves in.
+3. You can use these methods at your own risk, I make no guarantee that you won't get notices of withdrawment (and other punishments) from your institution.
+4. Nobody can get me (KablammoMan) in trouble (legal or institution based) for ***someone else*** using these instructions and programs to stop ABTutor (but if I use it, I take responsibility for my actions and will take the punishments).
+5. By using these instructions and software, you automatically agree to the EULA.
 
 # NOTES:
 - All the below methods have only been tested on Windows machines, if your institution uses MacOS, then firstly, your institution is (respectfully coming from a Windows and Linux Lover/Nerd) **RETARDED**, and secondly, only some of the below methods may work (idk which ones tho).
