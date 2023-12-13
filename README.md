@@ -43,7 +43,8 @@
 2. Use each one for its official use
 3. You must run these as an administrator for them to work
 
-**METHOD 5 - USB WINDOWS INSTALL - 10/10 Complexity - For those without Admin that can afford to spend a small one off cost (C)**
+**METHOD 5 - USB WINDOWS INSTALL - 10/10 Complexity - For those without administrator that can afford to spend a small one off cost (C)**
+**NOTE: This method is speculation as I have not tested whether this would work or not**
 1. If you don't have one, purchase a 64-128GB USB Drive (I recommend these: [64GB Drive](https://www.amazon.com.au/dp/B077VYCV37/) | [128GB Drive](https://www.amazon.com.au/dp/B07855LJ99/))
 2. Download Portable Rufus (`rufus-<version>p.exe` NOT `rufus-<version>.exe`) from its [Official Website](https://rufus.ie/en/) onto an External Computer
 3. Download the Windows ISO also on the external computer ([Windows 10](https://www.microsoft.com/en/software-download/windows10) | [Windows 11](https://www.microsoft.com/en/software-download/windows11)). If you want to download Windows 10 (I would recommend Windows 10 rather than Windows 11 for this as Windows 10 is compatible with more devices), this requires you to change your user agent on the browser to not be windows in order to trick the Microsoft Website into just giving you the option to download the iso, rather than downloading the windows media creator thingy. This can be done by installing a browser extension (I recommend 'User-Agent Switcher and Manager' [Chrome Webstore](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) | [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)). Here's a [video](https://youtu.be/RB4AwSUMgS0) I made showing how to access the Win10 ISO using 'User-Agent Switcher and Manager'
@@ -57,3 +58,9 @@ If it says something else (I've personally never seen something else before), us
 9. Click 'START' at the bottom of the rufus prompt
 10. Select the version of Windows 10 (or Windows 11) on the box that opens up.
 11. ***!!SUPER DUPER CRAZY IMPORTANT!!*** Deselect 'Prevent Windows To Go from accessing internal disks'. This allows the usb to access our drive on the AB Tutor computer (and any other commputer) to enable us to stop it from working.
+12. Follow the installation prompts until it successfully flashes the USB.
+13. Once done plug the USB into the target computer and reboot it (or just turn it on if it was off).
+14. During the boot process spam DELETE, F2, F10, F12 to open the BIOS menu.
+15. From the BIOS menu find the option to choose the boot device, and choose your USB.
+16. Once booted in, open file explorer and you should be able to access the main file system of the target computer.
+17. From there navigate to `Program Files (x86)/ABTutor/`
